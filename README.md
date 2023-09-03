@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilhorrer&label=Profile%20views&color=0e75b6&style=flat" alt="lilhorrer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilhorrer" alt="lilhorrer" /></a> </p>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true)
 
 - 📝 I regularly write articles and posts on [https://www.instagram.com/the.lesser_known/](https://www.instagram.com/the.lesser_known/)
