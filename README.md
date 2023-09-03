@@ -7,13 +7,13 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true)
 
-- 📝 I regularly write articles and posts on [https://www.instagram.com/the.lesser_known/](https://www.instagram.com/the.lesser_known/)
-
 - 💬 Ask me about **Wireframing and Prototyping**
 
 - 📫 How to reach me **pranavrkumar04@gmail.com**
 
 - ⚡ Fun fact **I love exploring music**
+
+- 📝 I regularly write articles and posts on [https://www.instagram.com/the.lesser_known/](https://www.instagram.com/the.lesser_known/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
