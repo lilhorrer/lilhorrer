@@ -1,3 +1,5 @@
+<img src='https://media2.giphy.com/media/jolZ2CwTXbJpM01jbp/200w.gif?cid=6c09b952q3dij02qcclexzr2bvt6ajsdxexbg46hbpb7iv6h&ep=v1_gifs_search&rid=200w.gif&ct=g' alt="banner"></img>
+
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Currently Pursuing B.Tech in Computer Science with specialization in AI and ML</h3>
 
