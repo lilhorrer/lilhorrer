@@ -1,4 +1,4 @@
-<img align="center" src="https://f4.bcbits.com/img/a2745019358_16.jpg" alt="banner">
+<img align="right" src="https://f4.bcbits.com/img/a2745019358_16.jpg" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Currently Pursuing B.Tech in Computer Science with specialization in AI and ML</h3>
