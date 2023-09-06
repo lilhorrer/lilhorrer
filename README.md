@@ -1,5 +1,4 @@
-<img align="center" src="" alt="banner">
-![assets/banner.png](banner.png)
+![banner.png](banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
