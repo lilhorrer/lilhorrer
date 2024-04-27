@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Wireframing and Prototyping.**
 
-- 🌱 I'm currently learning **Prolog and DSA in Python**
+- 🌱 I'm currently learning **DSA in C++**
 
 - 📫 How to reach me **pranavrkumar04@gmail.com**
 
