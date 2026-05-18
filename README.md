@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Currently Pursuing B.Tech in Computer Science with specialization in AI and ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilhorrer&label=Profile%20views&color=0e75b6&style=flat" alt="lilhorrer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilhorrer&label=Profile%20views&color=0e75b6&style=flat" alt="prnvoid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilhorrer" alt="lilhorrer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prnvoid" alt="prnvoid" /></a> </p>
 
 - 💬 Ask me about **Wireframing and Prototyping.**
 
