@@ -8,13 +8,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prnvoid" alt="prnvoid" /></a> </p>
 
-- 💬 Ask me about **Wireframing and Prototyping.**
+- 💬 Ask me about **Ask me about recommendation systems, obscure music, and clean interface prototyping.**
 
-- 🌱 I'm currently learning **DSA in C++**
+- 🌱 I'm currently learning **DSA in Python**
 
 - 📫 How to reach me **pranavrkumar04@gmail.com**
 
-- ⚡ Fun fact **I enjoy putting my creative skills to use and discovering new areas.**
+- ⚡ Fun fact **I like treating playlists as behavioral datasets.**
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=440934&interchange=false&profanity=false&hide_remaster=false&bar_color=340415&bar_color_cover=true">
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
