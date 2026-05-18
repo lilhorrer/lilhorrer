@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prnvoid" alt="prnvoid" /></a> </p>
 
-- 💬 Ask me about **Ask me about recommendation systems, obscure music, and clean interface prototyping.**
+- 💬 Ask me about **recommendation systems, obscure music, and clean interface prototyping.**
 
 - 🌱 I'm currently learning **DSA in Python**
 
